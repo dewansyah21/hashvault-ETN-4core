@@ -22,6 +22,13 @@
  *      { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 1 },
  * ],
  */
+ 
+ "cpu_threads_conf" :
+[
+    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 0 },
+    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 1 },
+],
+
 "cpu_threads_conf" : 
 null,
 
@@ -106,9 +113,9 @@ null,
  *
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
-"pool_address" : "pool.usxmrpool.com:3333",
-"wallet_address" : "",
-"pool_password" : "",
+"pool_address" : "pool.electroneum.hashvault.pro:3333",
+"wallet_address" : "etnkB8TgdoPYkSZU27dmH8Y2641K7cn7fMQHNLMdQdyS53g2owioXPjRrGmn1V2vZ48JcQCBbuUs4Q1B1bckrzNh7ctk7MCHwd",
+"pool_password" : "hashvault-ETN-4core:rafeldo29@gmail.com",
 
 /*
  * Network timeouts.
