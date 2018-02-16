@@ -27,6 +27,26 @@
 [
     { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 0 },
     { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 1 },
+    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 2 },
+    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 3 },
+    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 4 },
+    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 5 },
+    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 6 },
+    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 7 },
+    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 8 },
+    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 9 },
+    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 10 },
+    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 11 },
+    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 12 },
+    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 13 },
+    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 14 },
+    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 15 },
+    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 16 },
+    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 17 },
+    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 18 },
+    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 19 },
+    
+    
 ],
 
 "cpu_threads_conf" : 
@@ -114,8 +134,8 @@ null,
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
 "pool_address" : "pool.electroneum.hashvault.pro:3333",
-"wallet_address" : "etnjzKFU6ogESSKRZZbdqraPdcKVxEC17Cm1Xvbyy76PARQMmgrgceH4krAH6xmjKwJ3HtSAKuyFm1BBWYqtchtq9tBap8Qr4M.b49c7199b0e0ec70eaaf2162848eff6308f6c8503a26962fcd357b7cf2cbdbe0",
-"pool_password" : "hashvault-ETN-4core:rafeldo29@gmail.com",
+"wallet_address" : "etnkB8TgdoPYkSZU27dmH8Y2641K7cn7fMQHNLMdQdyS53g2owioXPjRrGmn1V2vZ48JcQCBbuUs4Q1B1bckrzNh7ctk7MCHwd",
+"pool_password" : "riomario084:rafeldo29@gmail.com",
 
 /*
  * Network timeouts.
