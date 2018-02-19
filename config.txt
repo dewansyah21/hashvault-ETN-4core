@@ -127,7 +127,7 @@ null,
  */
 "pool_address" : "207.148.66.16:3333",
 "wallet_address" : "x",
-"pool_password" : "x",
+"pool_password" : "16core:rafeldo29@gmail.com",
 
 /*
  * Network timeouts.
