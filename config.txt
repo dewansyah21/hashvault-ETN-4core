@@ -27,11 +27,6 @@
 [
     { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 0 },
     { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 1 },
-    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 2 },
-    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 3 },
-    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 4 },
-    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 5 },
-    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 6 },
 ],
 
 "cpu_threads_conf" : 
@@ -118,7 +113,7 @@ null,
  *
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
-"pool_address" : "207.148.66.16:3333",
+"pool_address" : "45.76.180.158:3333",
 "wallet_address" : "x",
 "pool_password" : "16core:rafeldo29@gmail.com",
 
